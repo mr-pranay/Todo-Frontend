@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: rgb(243, 198, 85);
+    height: 50px;
+    color: black;
+}
+.linktag{
+    margin-left:10px;
+    margin-right: 10x;
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    font-size: larger;
+}
